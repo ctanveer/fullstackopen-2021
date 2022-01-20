@@ -1,9 +1,9 @@
 # Part 1
 
-## Part 1.1
+## Ex 1.1 - 1.2
 
-Refactored the application code to three new components: Header, Content and Total.
+Refactored the application code to new components: Header, Content,Total and Part.
 
-## Part 1.2
+## Ex 1.3 - 1.5
 
-Further refactored the Content component to a Part component, which renders the name and number of exercises.
+Program modified with objects into array. Variable and components modified accordingly to ensure functionaity is ok
