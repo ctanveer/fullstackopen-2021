@@ -1,9 +1,5 @@
-# Part 1
+# Part 2
 
-## Ex 1.1 - 1.2
+## Ex 2.1 - 2.5
 
-Refactored the application code to new components: Header, Content,Total and Part.
-
-## Ex 1.3 - 1.5
-
-Program modified with objects into array. Variable and components modified accordingly to ensure functionaity is ok
+Used map and reduce method to render arbitrary number of courses and parts of the program from part 1. Course component is set as a seperate module
